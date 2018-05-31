@@ -12,7 +12,7 @@ var ninjaBabySelector = function() {
 };
 
 var divSelector = function() {
-  return $('div.pics')
+  return $('.pics');
 };
 
 var firstListItem = function() {
