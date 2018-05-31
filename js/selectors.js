@@ -4,11 +4,11 @@ var paragraphSelector = function() {
 };
 
 var lastImageSelector = function() {
-  
+  return $('img:last');
 };
 
 var ninjaBabySelector = function() {
-  
+  return $('#')
 };
 
 var divSelector = function() {
